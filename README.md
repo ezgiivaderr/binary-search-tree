@@ -12,3 +12,7 @@
        / \
       2   4          ->> 2 7 den küçük solda,5 den küçük solda 1 den büyük sağda 3 den küçük solda
                          4 7 den küçük solda ,5 den küçük solda 1 den büyük sağda 3 den büyük sağda
+                         
+                         
+                         
+                  www.patika.dev
